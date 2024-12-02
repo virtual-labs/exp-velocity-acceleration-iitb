@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The Velocity in a fluid flow is given as $$ V \\ = \\ 5x^3\\hat{i} \\ + \\ 9x^2y\\hat{j} \\ + \\ 3t\\hat{k} $$. Find the velocity & acceleration at (2, 1, 2) at t=2",
+      "qid": 1,
+      "option_a": "u = 44, v = -68, w = 8",
+      "option_b": "u = 40, v = -36, w = 6",
+      "option_c": "u = 37, v = -52, w = 4",
+      "option_d": "u = 40, v = -64, w = 9",
+      "correct_option": "b"
+   },
+   {
+      "question": "The Velocity in a fluid flow is given as $$ V \\ = \\ 5x^3\\hat{i} \\ + \\ 9x^2y\\hat{j} \\ + \\ 3t\\hat{k} $$. Find the velocity & acceleration at (1, 2, 2) at t=2",
+      "qid": 2,
+      "option_a": "u = 3, v = -11, w = 2",
+      "option_b": "u = 5, v = -38, w = 3",
+      "option_c": "u = 5, v = -18, w = 6",
+      "option_d": "u = 3, v = -25, w = 8",
+      "correct_option": "c"
+   }
+]
