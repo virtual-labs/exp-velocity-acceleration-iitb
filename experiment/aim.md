@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h2>AIM: To find velocity and acceleration.</h2>
